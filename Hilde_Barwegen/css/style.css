@@ -1,0 +1,42 @@
+article {
+	border-right: solid 0.2em red;
+}
+
+article h1 {
+	color: red;
+}
+
+article p {
+	margin: 1em 0;
+}
+
+figure {
+	width: 
+}
+
+.message.alert {
+	width:20%;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 1em;
+	padding: 1em;
+	border-color: red;
+}
+
+.message.warning {
+	width: 20%;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 1em;
+	padding: 1em;
+	border-color: yellow;
+}
+
+.info {
+  font-family: monospace;
+  position: absolute;
+  line-height: 20px;
+  font-size: 14px;
+  left: 20px;
+  top: 20px;
+}
